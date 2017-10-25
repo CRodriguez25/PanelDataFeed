@@ -177,28 +177,33 @@
     ]
   },
   "packageFolders": {
-    "/home/carlos/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Carlos\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "/home/carlos/PanelDataFeed/PanelDataFeed.csproj",
+      "projectUniqueName": "C:\\Users\\Carlos\\Desktop\\DataFeed\\PanelDataFeed\\PanelDataFeed.csproj",
       "projectName": "PanelDataFeed",
-      "projectPath": "/home/carlos/PanelDataFeed/PanelDataFeed.csproj",
-      "packagesPath": "/home/carlos/.nuget/packages/",
-      "outputPath": "/home/carlos/PanelDataFeed/obj/",
+      "projectPath": "C:\\Users\\Carlos\\Desktop\\DataFeed\\PanelDataFeed\\PanelDataFeed.csproj",
+      "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Carlos\\Desktop\\DataFeed\\PanelDataFeed\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/carlos/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

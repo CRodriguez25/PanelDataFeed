@@ -1,0 +1,9 @@
+C:\Users\Carlos\Desktop\DataFeed\PanelDataFeed\bin\Release\netstandard2.0\PanelDataFeed.deps.json
+C:\Users\Carlos\Desktop\DataFeed\PanelDataFeed\bin\Release\netstandard2.0\PanelDataFeed.dll
+C:\Users\Carlos\Desktop\DataFeed\PanelDataFeed\bin\Release\netstandard2.0\PanelDataFeed.pdb
+C:\Users\Carlos\Desktop\DataFeed\PanelDataFeed\obj\Release\netstandard2.0\PanelDataFeed.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\DataFeed\PanelDataFeed\obj\Release\netstandard2.0\PanelDataFeed.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\DataFeed\PanelDataFeed\obj\Release\netstandard2.0\PanelDataFeed.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\DataFeed\PanelDataFeed\obj\Release\netstandard2.0\PanelDataFeed.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\DataFeed\PanelDataFeed\obj\Release\netstandard2.0\PanelDataFeed.dll
+C:\Users\Carlos\Desktop\DataFeed\PanelDataFeed\obj\Release\netstandard2.0\PanelDataFeed.pdb

@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Panels.DataFeeds</id>
-    <version>$version$</version>
+    <version>1.0.1</version>
     <title>$title$</title>
     <authors>Carlos Rodriguez</authors>
     <owners>Carlos Rodriguez</owners>
