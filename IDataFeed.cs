@@ -4,7 +4,7 @@ namespace PanelDataFeed
 {
     public interface IDataFeed
     {
-        void Start();
+        void Start(IPanelCommunicator panelCommunicator);
         
     }
 }
