@@ -1,0 +1,8 @@
+/home/carlos/PanelDataFeed/obj/Debug/netstandard2.0/PanelDataFeed.csproj.CoreCompileInputs.cache
+/home/carlos/PanelDataFeed/obj/Debug/netstandard2.0/PanelDataFeed.AssemblyInfoInputs.cache
+/home/carlos/PanelDataFeed/obj/Debug/netstandard2.0/PanelDataFeed.AssemblyInfo.cs
+/home/carlos/PanelDataFeed/bin/Debug/netstandard2.0/PanelDataFeed.deps.json
+/home/carlos/PanelDataFeed/bin/Debug/netstandard2.0/PanelDataFeed.dll
+/home/carlos/PanelDataFeed/bin/Debug/netstandard2.0/PanelDataFeed.pdb
+/home/carlos/PanelDataFeed/obj/Debug/netstandard2.0/PanelDataFeed.dll
+/home/carlos/PanelDataFeed/obj/Debug/netstandard2.0/PanelDataFeed.pdb
