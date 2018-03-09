@@ -2,7 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Version>1.0.2</Version>
+    <Version>1.0.6</Version>
+    <Authors>Carlos Rodriguez</Authors>
+    <Company>Carlos Rodriguez</Company>
+    <Description>Interfaces needed for developers to be able to create their own DataFeeds for panels in the Panels App</Description>
+    <PackageProjectUrl>https://github.com/CRodriguez25/PanelDataFeed</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/CRodriguez25/PanelDataFeed</RepositoryUrl>
+    <PackageTags>PanelsApp Panels DataFeed</PackageTags>
   </PropertyGroup>
 
 </Project>

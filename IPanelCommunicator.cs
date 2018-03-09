@@ -1,3 +1,5 @@
+using System;
+
 namespace PanelDataFeed
 {
     /// <summary>
@@ -10,6 +12,6 @@ namespace PanelDataFeed
         /// so code accordingly. 
         /// </summary>
         /// <param name="message"></param>
-        void SendMessageToPanel(string message);
+        void SendMessageToPanel(object message);
     }
 }
