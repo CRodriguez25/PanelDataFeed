@@ -5,7 +5,7 @@ namespace PanelDataFeed
     /// <summary>
     /// An interface for communicating with the associated panels
     /// </summary>
-    public interface IPanelCommunicator
+    public interface IPanelCommunicator : IConvertible
     {
         /// <summary>
         /// Sends the provided message to the panel. Note, delivery of a message is NOT ensured (Panel may not be active)

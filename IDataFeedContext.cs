@@ -1,8 +1,9 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 
 namespace PanelDataFeed
 {
-    public interface IDataFeedContext
+    public interface IDataFeedContext : IConvertible
     {
         /// <summary>
         /// Returns the location of the program that this DataFeed is linked to.
